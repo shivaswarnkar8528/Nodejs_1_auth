@@ -21,9 +21,7 @@ const auth={
                 user: {
                     id: user.id,
                     name: user.name,
-                    email: user.emailgit branch -M main
-                    git remote add origin https://github.com/shivaswarnkar8528/Nodejs_1_auth.git
-                    git push -u origin main
+                    email: user.email
                 }
             });
         } catch (error) {
